@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMC_Charlie.Views.ViewPersona"
+             Title="Personas"
+             xmlns:local="clr-namespace:IMC_Charlie.ViewsModels"
+             >
+    <ContentPage.BindingContext>
+        <local:ViewModelPersona></local:ViewModelPersona>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Calcula tu nivel de masa corporal" FontSize="50"  />
+
+            <Entry Text="{Binding Nombre}" Keyboard="Text" Placeholder="Ingrese Nombre de Alumno"/>
+            
+            <Entry Text="{Binding Genero}" Keyboard="Text" Placeholder="Ingrese su genero" />
+            <Entry Text="{Binding Fecha}" Keyboard="Numeric" Placeholder="Ingrese fecha de nacimiento" />
+           
+            
+            
+            <Entry Text="{Binding Peso}" Keyboard="Numeric" Placeholder="Ingrese su peso" />
+            <Entry Text="{Binding Estatura}" Keyboard="Numeric" Placeholder="Ingrese su altura" />
+
+            <Button Text="Guardar y Calcular" Command="{Binding Guardar}" ></Button>
+            <Label Text="Su masa es de:"/>
+            
+
+            <Button Text="Abrir" Command="{Binding Abrir}"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\bin\Debug\netstandard2.0\IMC Charlie.deps.json
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\bin\Debug\netstandard2.0\IMC Charlie.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\bin\Debug\netstandard2.0\IMC Charlie.pdb
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\Views\ViewPersona.xaml.g.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\refint\IMC Charlie.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\IMC Charlie.pdb
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\ref\IMC Charlie.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\IMC Charlie\IMC Charlie\IMC Charlie\obj\Debug\netstandard2.0\Views\Videos.xaml.g.cs

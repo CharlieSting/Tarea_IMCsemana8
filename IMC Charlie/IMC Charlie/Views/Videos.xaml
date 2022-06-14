@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMC_Charlie.Views.Videos"
+             xmlns:local="clr-namespace:IMC_Charlie.ViewsModels"
+            Title="Videos"
+    >
+
+    <ContentPage.BindingContext>
+        <local:ViewModelVideos></local:ViewModelVideos>
+    </ContentPage.BindingContext>
+
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Seguro te preguntaras, ¿Que es IMC?"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   FontSize="50"/>
+
+            <Label Text="El índice de masa corporal (IMC) es un número que se calcula con base en el peso y la estatura de la persona. Para la mayoría de las personas, el IMC es un indicador confiable 
+                   de la gordura y se usa para identificar las categorías de peso que pueden llevar a problemas de salud."/>
+
+            <WebView Source="{Binding VideoActual}"
+                     WidthRequest="250"
+                     HeightRequest="250"
+                     VerticalOptions="FillAndExpand" ></WebView>
+
+            <Button Text="Ver video" Command="{Binding CambiarVideo1}" ></Button>
+            <Button Text="Otro video" Command="{Binding CambiarVideo2}" ></Button>
+
+
+            <Label Text="{Binding VideoActual}"></Label>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
